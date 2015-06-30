@@ -20,6 +20,6 @@ Whaddya got -- tabular data on paper or a picture of tabular data on paper?
 </ul>
 
 ##What does the law say?
-Public agencies in Nebraska are required to provide records "<strong>in any form designated by the requester</strong> in which the public record is maintained or produced, including, but not limited to, printouts, <strong>electronic data</strong>, discs, tapes, and photocopies."
+Public agencies in Nebraska <a href="http://uniweb.legislature.ne.gov/laws/statutes.php?statute=84-712">are required</a> to provide records "<strong>in any form designated by the requester</strong> in which the public record is maintained or produced, including, but not limited to, printouts, <strong>electronic data</strong>, discs, tapes, and photocopies."
 
 PDFs are not data.
