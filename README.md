@@ -18,3 +18,8 @@ Whaddya got -- tabular data on paper or a picture of tabular data on paper?
 <li><a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/">PDFTK</a></li>
 <li><a href="https://euske.github.io/pdfminer/">PDFMiner</a></li>
 </ul>
+
+##What does the law say?
+Public agencies in Nebraska are required to provide records "<strong>in any form designated by the requester</strong> in which the public record is maintained or produced, including, but not limited to, printouts, <strong>electronic data</strong>, discs, tapes, and photocopies."
+
+PDFs are not data.
