@@ -1,7 +1,8 @@
 #PDFs!
 You asked for data. They gave you a PDF. What now?
 
-##Whaddya got -- tabular data on paper or a picture of tabular data on paper?
+##First thing
+Whaddya got -- tabular data on paper or a picture of tabular data on paper?
 
 ##Some useful things
 <ul>
